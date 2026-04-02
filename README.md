@@ -15,7 +15,7 @@ kindly share it with me.
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 0               |
 
-🛠 Languages Used
+🛠 Language Used
 * C++
 
 ## 🔗 LeetCode Profile
