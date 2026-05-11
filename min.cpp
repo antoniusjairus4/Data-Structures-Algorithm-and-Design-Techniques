@@ -36,7 +36,7 @@ int main()
             tail = new_Node;
         }
 
-        else{
+        else{                       
             tail -> next = new_Node;
             new_Node -> prev = tail;
             tail = new_Node;
