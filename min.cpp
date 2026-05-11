@@ -50,7 +50,7 @@ int main()
         }
     }
 
-    cout << "The min of the Linked list is: " << min -> data;
+    cout << "The min of the Linked list is : " << min -> data;
 
     return 0;
 }
