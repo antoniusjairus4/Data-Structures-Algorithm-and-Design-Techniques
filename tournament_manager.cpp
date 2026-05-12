@@ -51,4 +51,19 @@ class Table_Tennis : public Player{
             matches_won = m;
             reaction_speed = r;
         }
+
+        float calculate_score(){
+            return (matches_won * 10) + (reaction_speed * 2);
+        }
+
+        void display_details(){
+            
+            display_basics();
+
+            cout << "Sport : Table Tennis" << endl;
+            cout << "Matches won : " << matches_won << endl;
+            cout << "Reaction Speed " << reaction_speed << endl;
+            cout << "Score : " << calculate_score() << endl;
+        }
 };
+
