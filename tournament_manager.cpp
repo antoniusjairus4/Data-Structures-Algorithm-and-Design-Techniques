@@ -98,3 +98,33 @@ class Chess_Player : public Player {
         }
 };
 
+class Athlete : public Player {
+    private:
+        float speed;
+        float stamina;
+
+    public:
+        Athlete() {
+        speed = 0;
+        stamina = 0;
+    }
+
+    Athlete(int id, string n, int a, float s, float st) : Player(id, n, a) {
+        speed = s;
+        stamina = st;
+    }
+
+    float calculate_score() {
+        return (speed * 5) + (stamina * 3);
+    }
+
+    void display_details() {
+
+        display_basics();
+
+        cout << "Sport : Athlete" << endl;
+        cout << "Speed : " << speed << endl;
+        cout << "Stamina : " << stamina << endl;
+        cout << "Score : " << calculate_score() << endl;
+    }
+};
