@@ -2,7 +2,10 @@
 
 using namespace std;
 
-class 
+class GCD {
+    
+};
+
 int main()
 {
     return 0;
