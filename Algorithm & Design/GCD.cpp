@@ -20,12 +20,25 @@ class GCD_Modulo{
                 b = a % b;
                 a = temp;
             }
-        }
-    
 
+            return 0;
+        }
 };
 
 int main()
 {
+    GCD_Modulo g;
+
+    cout << "Enter a number : ";
+    cin >> g.num_1;
+
+    cout << "Enter a number : ";
+    cin >> g.num_2;
+
+    int result = g.calculate();
+
+    if(result == -1){
+        cout << "Invalid input";
+    }
     return 0;
 }
