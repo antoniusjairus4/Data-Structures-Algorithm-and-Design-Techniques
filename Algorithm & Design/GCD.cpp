@@ -40,5 +40,10 @@ int main()
     if(result == -1){
         cout << "Invalid input";
     }
+
+    else{
+        cout << "The GCD is: " << result << endl;
+    }
+    
     return 0;
 }
