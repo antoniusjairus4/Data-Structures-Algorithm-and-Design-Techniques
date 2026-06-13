@@ -29,8 +29,7 @@ int main() {
     cout << "Enter number of elements: ";
     cin >> n;
 
-    int arr[1000]; 
-    cout << "Enter " << n << " integers in ascending order: ";
+    int arr[n]; 
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
