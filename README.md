@@ -1,66 +1,82 @@
-# 🌌 ▓▒░ THE GOATED C++ CHADSPACE ░▒▓ 🌌
-
 <div align="center">
-  <!-- INSANE GLOWING NEON BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F2FE&secondaryColor=4FACFE&text=🔥%20C%2B%2B%20SUPERIORITY%20🔥&animation=twinkling&fontColor=fff&fontSize=40&fontAlignY=45" width="100%" alt="Mega Banner" />
 
-  <br />
+<!-- Animated typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Algorithm+%26+Design+in+C%2B%2B;Intermediate+%E2%86%92+Advanced+DSA;Built+for+the+curious+ones." alt="Typing SVG" />
 
-  <!-- DEFYING THE LAWS OF SPEED DYNAMIC TYPING -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1500&pause=300&color=00FF7F&background=0D111700&center=true&vCenter=true&width=700&lines=⚡+BYE+BYE+JAVA+⚡;❌+STL+VECTORS+ARE+FOR+THE+WEAK+❌;🦾+RAW+POINTERS+ONLY+🦾;🚀+MAXIMUM+COMPUTE+EFFICIENCY+🚀;🧠+MEM+MANAGEMENT+IS+MY+MEDITATION+🧠" alt="Extreme Typing" />
+<br/>
 
-  <br />
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-purple?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/antoniusjairus4/DSA?style=for-the-badge&color=a78bfa)
 
-  <!-- BLOCK OF SHIELDS OVERKILL -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/LANGUAGE-PURE%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=cyan" alt="C++" />
-    <img src="https://img.shields.io/badge/VECTOR_STATUS-BANNED_BY_CONSTITUTION-FF0055?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NyAyIDIgNi40NyAyIDEyczQuNDcgMTAgMTAgMTAgMTAtNC40NyAxMC0xMFMxNy41MyAyIDEyIDJ6bTUgMTNMMTUgMTdsLTktOSAzLTN6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="No Vectors" />
-    <img src="https://img.shields.io/badge/ALLOCATION-MANUAL_POINTERS_ONLY-00FF7F?style=for-the-badge" alt="Manual Allocation" />
-    <br />
-    <img src="https://img.shields.io/badge/COMPILER_OPTIMIZATION-O3_OR_DEATH-EA4335?style=for-the-badge" alt="Optimization" />
-    <img src="https://img.shields.io/badge/PYTHON_STATUS-REJECTED-YELLOW?style=for-the-badge&logo=python" alt="No Python" />
-    <img src="https://img.shields.io/badge/JAVA_STATUS-DELETED-ORANGE?style=for-the-badge&logo=openjdk" alt="No Java" />
-  </p>
-
-  <!-- STREAKS AND STATS EXTRAVAGANZA -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=Antonius-Jairus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </p>
 </div>
 
 ---
 
-## 🛑 MANIFESTO: WHY THIS REPO IS ABSOLUTELY CRACKED
+## Hey there 👋
 
-Look at the file `README.md` in `Screenshot From 2026-06-23 22-09-22.png`. It was a humble cry for help in a dark world. Modern programming has been infected by abstraction. Java hides the heap. Python doesn't even know what a pointer is. 
+This repo is a growing collection of **intermediate to advanced DSA problems and algorithm implementations**, all written in C++. If you think C++ is the most powerful language in the room — you're already home.
 
-**NOT HERE.** This repository is an absolute temple of low-level data structures where we treat hardware with the respect it deserves. We manage memory manually. We allocate on the stack until it screams, and we control the heap with naked `new` and `delete` statements. **Zero STL vectors.** If we need dynamic resizing, we write the array growth tracking code ourselves. 
+Feel free to star ⭐ or fork 🍴 if you find something useful.
 
 ---
 
-## ⚡ MATRIX ARCHITECTURE (THE DIRECTORY COMPENDIUM)
+## 📁 Structure
 
-Behold the file trees captured from `Screenshot From 2026-06-23 22-07-40.png` and `Screenshot From 2026-06-23 22-09-04.png`, translated into absolute structural perfection:
+```
+Algorithm & Design/
+├── Basic Problems/          # Recursion, Fibonacci, GCD, Primes, and more
+├── Brute Force/             # Convex Hull, String Search, Pair Differences
+└── Rec & Non Rec Analysis/  # Binary Search, Tower of Hanoi, Digit Sum
 
-### 🛠️ PHASE I: ALGORITHM & DESIGN
-```diff
-+ [DIR] Basic Problems ---------------------------------------------
-!   ├── factorial_rec.cpp             --> Deep stack frame overhead tracking
-!   ├── fib_upto_n.cpp                --> O(N) linear sequence scaling
-!   ├── fibonacci_rec.cpp             --> Brutal O(2^N) branch analysis
-!   ├── gcd.cpp                       --> Euclidean remainder optimization
-!   ├── indexes_char.cpp              --> Native character buffer offsets
-!   ├── longest_consecutive_with_g... --> Advanced window array traversal
-!   ├── nearest_prime.cpp             --> Square-root boundary computation
-!   ├── prime_nos_upto_n.cpp          --> Sieve-style linear loops
-!   ├── prime_sum_to_give the num...  --> Dual-pointer prime combination limits
-!   └── sum_fib_rec.cpp               --> Accumulator stack evaluation
-+ [DIR] Brute Force ------------------------------------------------
-!   ├── convex_hull.cpp               --> Dynamic computational geometry
-!   ├── diff_of_any_2_that_is_the_mi..--> Extreme element Delta discovery
-!   └── finding_a_word_in_string.cpp  --> Native contiguous memory matching
-+ [DIR] Rec & Non Rec Analysis -------------------------------------
-!   ├── binary_search.cpp             --> O(log N) split index targeting
-!   ├── index_using_binary_search.c.. --> Custom indexing mapping engines
-!   ├── sum_of_digits.cpp             --> Modulo division stack extractions
-!   └── tower_of_hanoi.cpp            --> Visual math induction simulator
+DSA/
+├── OOP/                     # Address Swapper, Student Access, Tournament Manager
+├── linked_lists/            # Create, Insert, Reverse, Min/Max traversal
+├── queues/                  # Queue implementation
+├── stacks/                  # Bracket Eval, Infix-Postfix, Array & LL stacks
+└── Interview_Questions/     # Curated problems for placement prep
+```
+
+---
+
+## 🧠 Topics Covered
+
+| Category | Highlights |
+|---|---|
+| **Recursion** | Factorial, Fibonacci, GCD, Sum of digits, Tower of Hanoi |
+| **Brute Force** | Convex Hull, Finding a word in string |
+| **Searching** | Binary Search (recursive & iterative) |
+| **OOP** | Classes, encapsulation, real-world modelling in C++ |
+| **Linked Lists** | Insertion, reversal, min/max, input until 0 |
+| **Stacks** | Bracket evaluation, infix-to-postfix conversion |
+| **Queues** | Queue using arrays |
+| **Interview Prep** | Practical problems for coding rounds |
+
+---
+
+## ⚡ Why C++?
+
+Raw speed. Fine-grained memory control. The language competitive programmers trust when every millisecond counts. Java and Python have their place — but for DSA, C++ just hits different.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/antoniusjairus4/DSA.git
+cd DSA
+g++ -o output <filename>.cpp
+./output
+```
+
+No dependencies. No setup. Just a compiler and curiosity.
+
+---
+
+<div align="center">
+
+*Built with obsession. More problems incoming.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-antoniusjairus4-a78bfa?style=flat-square&logo=github)](https://github.com/antoniusjairus4)
+
+</div>
