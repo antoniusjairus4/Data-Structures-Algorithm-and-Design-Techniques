@@ -1,213 +1,81 @@
 <div align="center">
 
-# 🚀 Algorithm & Design
+# ⚡ ALGORITHM & DESIGN
 
-### Mastering Data Structures, Algorithms & Object-Oriented Programming in C++
+### Mastering Core Data Structures, Advanced Algorithms & Object-Oriented Engineering in C++
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Structures+and+Algorithms;Object+Oriented+Programming;Interview+Preparation;Competitive+Programming;Built+with+C%2B%2B" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=38BDF8&lines=Data+Structures+%26+Algorithms;Object+Oriented+Programming;High-Performance+Problem+Solving;Competitive+Programming;Built+with+Pure+C%2B%2B" />
 
 <br>
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
-![DSA](https://img.shields.io/badge/Data_Structures-%26_Algorithms-success?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented-Programming-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Environment](https://img.shields.io/badge/Environment-GCC%20%2F%20G%2B%2B-0F172A?style=for-the-badge&logo=gnu&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-Core%20Architecture-38BDF8?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Active%20Build-22C55E?style=for-the-badge)](#)
+
+---
+
+### 🌐 [Explore Solutions] • 🛠 [View Roadmap] • 🤝 [Contribution Guide]
 
 </div>
 
----
+## 📌 About The Repository
 
-## 📖 About The Repository
+This repository serves as an engineered, low-level blueprint for mastering foundational **Data Structures**, complex **Algorithms**, and structural **Object-Oriented Programming (OOP)** patterns. 
 
-This repository contains a curated collection of **Data Structures**, **Algorithms**, and **Object-Oriented Programming** concepts implemented in **C++**.
-
-The aim is to create a structured learning path for:
-
-- 🎓 Students learning DSA
-- 💼 Interview preparation
-- 🏆 Competitive programmers
-- 💻 C++ enthusiasts
-- 🚀 Developers strengthening problem-solving skills
-
-Every solution is designed to be simple, readable, and educational.
+Every implementation emphasizes raw algorithmic efficiency, structural clarity, clean memory execution, and deep mechanical transparency. It is systematically built for developers looking to master underlying engineering mechanics rather than relying purely on high-level abstractions.
 
 ---
 
-# 🗂 Repository Roadmap
+## 🗺 System Architecture & Directory Structure
 
-```text
-Algorithm & Design
-│
-├── Basic Problems
-├── Brute Force
-└── Recursion & Non-Recursion Analysis
-
-DSA
-│
-├── OOP
-├── Linked Lists
-├── Queues
-└── Stacks
-
-Interview Questions
-│
-└── Real-world Coding Problems
-```
+| Module | Core Domains | Key Focus Areas |
+| :--- | :--- | :--- |
+| **01. Algorithm & Design** | Basic Problems • Brute Force • Recursion | Mathematical induction, pattern discovery, time/space complexity analysis |
+| **02. Data Structures** | OOP • Linked Lists • Queues • Stacks | Memory optimization, pointer manipulation, physical layout control |
+| **03. Competitive Prep** | Real-World Coding Problems | Edge-case resolution, aggressive runtime execution, interview engineering |
 
 ---
 
-# 📚 Topics Covered
+## 📚 Technical Syllabus & Curated Concepts
 
-## 🔹 Algorithm & Design
+### 🧠 Algorithm & Design
+* **Foundational Computations:** Factorial, Fibonacci sequences, GCD optimization, Prime mechanics.
+* **Brute Force Analysis:** Convex Hull computational geometry, String Searching mechanics, Minimum Difference processing.
+* **Recursion & Analysis:** Space-complexity tracing, Tower of Hanoi mathematical steps, Optimized Binary Search variations.
 
-### Basic Problems
-- Factorial
-- Fibonacci Series
-- GCD
-- Prime Number Problems
-- Character Indexing
-- Consecutive Sequence Problems
-
-### Brute Force
-- Convex Hull
-- String Search
-- Minimum Difference Problems
-
-### Recursion & Non-Recursion Analysis
-- Binary Search
-- Tower of Hanoi
-- Sum of Digits
-- Search-Based Problems
+### 🏛 Data Structures & Low-Level Architecture
+* **Object-Oriented Design:** Encapsulated Student Access Engines, Tournament Management systems, Explicit Memory Address Swappers.
+* **Linked Data Chains:** Custom Node Allocations, Head/Tail Insertions, Iterative & Recursive Traversal patterns, Linear Min/Max evaluation.
+* **Linear Containers:** High-performance Queue structures, Array & Linked List Stacks, Explicit Bracket Validation parsers, Infix-to-Postfix conversion engines.
 
 ---
 
-## 🔹 Data Structures & Algorithms
+## 📉 Engineering Progress Matrix
 
-### 🏛 Object-Oriented Programming
-
-- Student Access System
-- Tournament Manager
-- Address Swapper
-
-### 🔗 Linked Lists
-
-- Creation
-- Insertion
-- Reverse Traversal
-- Maximum Element
-- Minimum Element
-
-### 📥 Queues
-
-- Queue Implementation
-
-### 📚 Stacks
-
-- Array Implementation
-- Linked List Implementation
-- Infix to Postfix Conversion
-- Bracket Validation
-- Expression Evaluation
+| Target Module | Implementation Status | Phase Completion |
+| :--- | :---: | :--- |
+| **Basic Algorithms & Math** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Brute Force Paradigms** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Recursion Analysis** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Object-Oriented Systems** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Linked Data Structures** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Linear Queues & Stacks** | `COMPLETED` | ▓▓▓▓▓▓▓▓▓▓ 100% |
+| **Advanced Trees (BST, AVL)** | `IN PROGRESS` | ▓▓▓▓░░░░░░ 40% |
+| **Graph Theory & Traversals** | `UPCOMING` | ░░░░░░░░░░ 0% |
+| **Dynamic Programming (DP)** | `UPCOMING` | ░░░░░░░░░░ 0% |
 
 ---
 
-# 🎯 Repository Goals
+## ⚡ Why C++ For Deep Data Structures?
 
-✔ Improve problem-solving ability
-
-✔ Build strong DSA fundamentals
-
-✔ Master recursion concepts
-
-✔ Learn practical OOP design
-
-✔ Prepare for coding interviews
-
-✔ Strengthen competitive programming skills
-
----
-
-# ⚡ Why C++?
-
-C++ remains one of the most powerful languages for:
-
-- High-performance applications
-- Competitive programming
-- Systems programming
-- Algorithm design
-- Interview preparation
-
-Its combination of speed and STL support makes it ideal for learning DSA.
-
----
-
-# 📈 Learning Progress
-
-| Module | Status |
-|----------|----------|
-| Basic Problems | ✅ |
-| Brute Force | ✅ |
-| Recursion | ✅ |
-| OOP | ✅ |
-| Linked Lists | ✅ |
-| Queues | ✅ |
-| Stacks | ✅ |
-| Advanced Trees | 🔄 |
-| Graphs | 🔄 |
-| Dynamic Programming | 🔄 |
-
----
-
-# 🛠 Development Environment
+High-impact technical software requires complete predictability, razor-sharp execution speeds, and low overhead. C++ provides:
+* **Deterministic Execution:** Direct control over memory footprints without the overhead or latency spikes of a garbage collector.
+* **Algorithmic Transparency:** Forcing deep understanding of internal memory manipulation, sequential structures, and system addresses.
+* **Competitive Edge:** Unmatched compilation and running speeds crucial for competitive environments and strict execution environments.
 
 ```cpp
-Language : C++
-Compiler : GCC / G++
-Editor   : VS Code
-Standard : C++17
-```
-
----
-
-# 🌟 Support
-
-If this repository helps you in your learning journey:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-📢 Share it with others
-
-🤝 Contribute improvements
-
----
-
-# 🤝 Contributions
-
-Contributions are welcome.
-
-Feel free to:
-
-- Add new DSA problems
-- Improve existing solutions
-- Optimize algorithms
-- Enhance documentation
-
----
-
-<div align="center">
-
-# 👨‍💻 Author
-
-### Antonius Jairus
-
-**Cybersecurity Student | C++ Developer | DSA Learner | State-Level Table Tennis Champion**
-
-*"Learning never exhausts the mind. The more problems you solve, the stronger your thinking becomes."*
-
----
-
-### ⭐ Happy Coding! ⭐
-
-</div>
+// Compilation & Optimization Parameters
+Language Standard : ISO C++17
+Compiler Engine   : GCC / G++ (v11+)
+Target Platform   : Cross-Platform Performance Build
