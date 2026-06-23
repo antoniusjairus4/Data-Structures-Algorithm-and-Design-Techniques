@@ -21,5 +21,5 @@ int main()
     int food_collected = 0;
     int house_visited = 0;
 
-return 0;
+    return 0;
 }
