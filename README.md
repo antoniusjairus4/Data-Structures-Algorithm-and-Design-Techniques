@@ -19,7 +19,7 @@
 
 </div>
 
-## 📌 About The Repository
+## 📌  About The Repository
 
 This repository serves as an engineered, low-level blueprint for mastering foundational **Data Structures**, complex **Algorithms**, and structural **Object-Oriented Programming (OOP)** patterns. 
 
