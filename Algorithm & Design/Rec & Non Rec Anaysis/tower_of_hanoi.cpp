@@ -4,12 +4,12 @@
 using namespace std;
 
 void tower_hanoi(int n, char s, char a, char d){
-    if(n == 1){
-        cout << "Move disk " << n << " from " << s << " to " << d << endl;
+    if(n == 0){
         return;
     }
 
     tower_hanoi(n - 1, s, d, a);
+    
     cout << "Move disk " << n << " from " << s << " to " << d << endl;
 
     tower_hanoi(n - 1, a, s, d);
@@ -25,4 +25,5 @@ int main()
     }
 
     tower_hanoi(n, 'A', 'B', 'C');
+    return 0;
 }
