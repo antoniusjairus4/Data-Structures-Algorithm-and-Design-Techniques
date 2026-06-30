@@ -27,3 +27,23 @@ Constraints:
 - -100 <= matrix[i][j] <= 100
 */
 
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    int m, n;
+    if(!(cin >> m >> n) || m < 0 || n < 0){
+        cout << "Invalid input" << endl;
+        return 0;
+    }
+
+    int arr[m][n];
+    for(int i = 0; i < m; i++){
+        for(int j = 0; j < n; j++){
+            cin >> arr[i][j];
+        }
+    }
+}
