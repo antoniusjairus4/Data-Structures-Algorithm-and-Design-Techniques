@@ -46,4 +46,18 @@ int main()
             cin >> arr[i][j];
         }
     }
+
+    bool found = false;
+
+    for(int i = 0; i < m; i++){
+        int min_row = arr[i][0];
+        int col_index = 0;
+
+        for(int j = 0; j < n; j++){
+            if(arr[i][j] < min_row){
+                min_row = arr[i][j];
+                col_index = j;
+            }
+        }
+    }
 }
