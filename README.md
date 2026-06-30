@@ -1,8 +1,7 @@
 <div align="center">
 
-# ⚡ ALGORITHM & DESIGN
-
-### Mastering Core Data Structures, Advanced Algorithms & Object-Oriented Engineering in C++
+# ⚡ ALGORITHM & DESIGN: CORE ENGINEERING
+### Mastering Foundation, Architecture, and High-Performance Logic in C++
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=38BDF8&lines=Data+Structures+%26+Algorithms;Object+Oriented+Programming;High-Performance+Problem+Solving;Competitive+Programming;Built+with+Pure+C%2B%2B" />
 
@@ -10,8 +9,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Environment](https://img.shields.io/badge/Environment-GCC%20%2F%20G%2B%2B-0F172A?style=for-the-badge&logo=gnu&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/Focus-Core%20Architecture-38BDF8?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Active%20Build-22C55E?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Active%20Engineering-22C55E?style=for-the-badge)](#)
 
 ---
 
@@ -19,35 +17,16 @@
 
 </div>
 
-## 📌  About The Repository
+## 📌 Mission Statement
+This repository serves as a meticulously engineered blueprint for mastering foundational **Data Structures**, complex **Algorithms**, and structural **Object-Oriented Programming (OOP)** patterns. Every implementation here prioritizes raw algorithmic efficiency, structural clarity, and deep mechanical transparency—avoiding high-level abstractions in favor of understanding the underlying engineering.
 
-This repository serves as an engineered, low-level blueprint for mastering foundational **Data Structures**, complex **Algorithms**, and structural **Object-Oriented Programming (OOP)** patterns. 
+## 🗺 System Architecture
+The repository is organized to reflect the progression from basic computations to complex system design:
 
-Every implementation emphasizes raw algorithmic efficiency, structural clarity, clean memory execution, and deep mechanical transparency. It is systematically built for developers looking to master underlying engineering mechanics rather than relying purely on high-level abstractions.
-
----
-
-## 🗺 System Architecture & Directory Structure
-
-| Module | Core Domains | Key Focus Areas |
-| :--- | :--- | :--- |
-| **01. Algorithm & Design** | Basic Problems • Brute Force • Recursion | Mathematical induction, pattern discovery, time/space complexity analysis |
-| **02. Data Structures** | OOP • Linked Lists • Queues • Stacks | Memory optimization, pointer manipulation, physical layout control |
-| **03. Competitive Prep** | Real-World Coding Problems | Edge-case resolution, aggressive runtime execution, interview engineering |
-
----
-
-## 📚 Technical Syllabus & Curated Concepts
-
-### 🧠 Algorithm & Design
-* **Foundational Computations:** Factorial, Fibonacci sequences, GCD optimization, Prime mechanics.
-* **Brute Force Analysis:** Convex Hull computational geometry, String Searching mechanics, Minimum Difference processing.
-* **Recursion & Analysis:** Space-complexity tracing, Tower of Hanoi mathematical steps, Optimized Binary Search variations.
-
-### 🏛 Data Structures & Low-Level Architecture
-* **Object-Oriented Design:** Encapsulated Student Access Engines, Tournament Management systems, Explicit Memory Address Swappers.
-* **Linked Data Chains:** Custom Node Allocations, Head/Tail Insertions, Iterative & Recursive Traversal patterns, Linear Min/Max evaluation.
-* **Linear Containers:** High-performance Queue structures, Array & Linked List Stacks, Explicit Bracket Validation parsers, Infix-to-Postfix conversion engines.
+*   **Algorithm & Design:** Foundational math, brute force, and recursion analysis.
+*   **DSA:** Linked structures, OOP systems, and linear containers (queues/stacks) built with raw pointers.
+*   **Interview_Questions:** Curated sets for real-world interview preparation and my internal prep logic.
+*   **LeetCode:** A collection of competitive programming solutions bridging theory and practice.
 
 ---
 
@@ -67,15 +46,29 @@ Every implementation emphasizes raw algorithmic efficiency, structural clarity, 
 
 ---
 
-## ⚡ Why C++ For Deep Data Structures?
+## 🧠 Competitive Programming & LeetCode Journey
+My journey into competitive programming is driven by a focus on "Hard" problems and algorithmic consistency. 
 
-High-impact technical software requires complete predictability, razor-sharp execution speeds, and low overhead. C++ provides:
-* **Deterministic Execution:** Direct control over memory footprints without the overhead or latency spikes of a garbage collector.
-* **Algorithmic Transparency:** Forcing deep understanding of internal memory manipulation, sequential structures, and system addresses.
-* **Competitive Edge:** Unmatched compilation and running speeds crucial for competitive environments and strict execution environments.
+### Current Statistics
+| Difficulty | Problems Solved |
+| :--- | :---: |
+| 🟢 Easy | 5 |
+| 🟡 Medium | 3 |
+| 🔴 Hard | 0 |
 
-```cpp
-// Compilation & Optimization Parameters
-Language Standard : ISO C++17
-Compiler Engine   : GCC / G++ (v11+)
-Target Platform   : Cross-Platform Performance Build
+> **Mentor Note:** I once hated coding, but thanks to my DSA mentor, Sharika mam, I have developed a deep passion for the craft. If you are reading this and struggling with "Hard" level problems, let’s connect—I am actively documenting every trick and strategy I uncover to master these challenges.
+
+---
+
+## ⚡ Why C++ For Deep Engineering?
+* **Deterministic Execution:** No garbage collector overhead; total control over the machine.
+* **Algorithmic Transparency:** Forcing a deep understanding of memory addresses and pointers.
+* **Competitive Edge:** Unmatched compilation and running speeds necessary for high-stakes environments.
+
+## 🔗 Connect With Me
+* **LeetCode Profile:** [antoniusjairus4](https://leetcode.com/antoniusjairus4/)
+
+---
+<div align="center">
+  <i>"Code is not just logic; it is the art of structural efficiency."</i>
+</div>
