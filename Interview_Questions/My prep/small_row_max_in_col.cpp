@@ -59,5 +59,26 @@ int main()
                 col_index = j;
             }
         }
+
+        bool col_max = true;
+        for(int k = 0; k < m; k++){
+            if(arr[k][col_index] > min_row){
+                col_max = false;
+                break;
+            }
+        }
+
+        if(col_max){
+            cout << min_row << endl;
+            found = true;
+            return 0;
+        }
     }
+
+    if(!(found)){
+        cout << "Unable to find the element";
+        return 0; 
+    }
+
+    return 0;
 }
