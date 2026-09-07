@@ -21,7 +21,6 @@ struct Node
 };
 
 struct compare{
-
     bool operator()(Node *a, Node *b){
         return a -> freq > b -> freq;
     }
