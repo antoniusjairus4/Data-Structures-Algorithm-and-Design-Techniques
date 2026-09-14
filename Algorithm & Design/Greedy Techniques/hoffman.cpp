@@ -74,10 +74,11 @@ int main()
         parent -> right = b;
 
         pq.push(parent);
+        
     }
 
     printNode(pq.top(), "");
     
     return 0;
-    
+
 }
