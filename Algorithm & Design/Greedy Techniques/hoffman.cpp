@@ -79,5 +79,4 @@ int main()
     printNode(pq.top(), "");
     
     return 0;
-
 }
