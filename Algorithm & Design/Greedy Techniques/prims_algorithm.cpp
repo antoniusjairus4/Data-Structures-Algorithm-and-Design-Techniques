@@ -62,5 +62,5 @@ int main()
         edge++;
     }
 
-    cout<<totalcost;
+    cout << totalcost;
 }
