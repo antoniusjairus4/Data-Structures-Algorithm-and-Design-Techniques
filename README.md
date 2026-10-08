@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 [Explore Solutions] •  [View Roadmap] •  [Contribution Guide]
+###  [Explore Solutions] •  [View Roadmap] •  [Contribution Guide]
 
 </div>
 
